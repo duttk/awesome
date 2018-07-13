@@ -415,6 +415,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
 - [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
+- [Programming Books] (https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 
 ## Security
